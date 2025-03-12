@@ -12,9 +12,9 @@ draw = function(){
   triangle(200, 104, 280, 280, 120, 280);
   fill(255, 255, 255);
   
-  if (answer == 1) {
-    text("YOUR", 176, 200);
-    text("MESSAGE", 159, 229); 
+  if (answer y>375) {
+    text("YAY!", 176, 200);
+    text("you made it", 159, 229); 
   }
   
 };
